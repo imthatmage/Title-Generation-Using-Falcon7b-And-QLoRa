@@ -1,5 +1,5 @@
-# Generating the title of an article based on its brief description (abstract). Based on [Stepik Samsung AI NLP course](https://github.com/Samsung-IT-Academy/stepik-dl-nlp))
-## To create a title from your own annotation, you can use the command interface 
+# Generating the title of an article based on its brief description (abstract). Based on [Stepik Samsung AI NLP kaggle competition](https://www.kaggle.com/competitions/title-generation)
+## To create a title from your own annotation, you can use the command line interface 
 ```
 python generate.py
 ```
@@ -18,3 +18,6 @@ Also it is required to download model [weights](https://drive.google.com/file/d/
 3. Harmonization of UAV and satellite spectral signals
 4. Harmonization of UAV and satellite spectral signatures for remote   sensing
 5. Harmonization of UAV and satellite spectral signals using polynomial   regression
+
+
+*All training data you can find at original [kaggle competition](https://www.kaggle.com/competitions/title-generation)*
